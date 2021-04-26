@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MCoffey1129
+- 👋 Hi, I’m Martin Coffey
 - 👀 I’m interested in Python, SAS, SQL, and R.
 - 🌱 I’m currently learning Machine Larning in Python
 - 💞️ I’m looking to collaborate on 
