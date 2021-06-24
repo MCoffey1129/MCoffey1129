@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Martin Coffey
-- 👀 I’m interested in Python, SAS, SQL, and R.
-- 🌱 I’m currently learning Machine Larning in Python
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in completing advanced projects in Machine Learning (via Python) 
+-     Projects include:
+-     Create a model which will successfully out-perform the S&P 500
+      across multiple time-periods 
+-     Create a game in python using Pygame
+-     Create an unsupervised model capable of solving the above game
+-     Implement and deploy a chatbot. 
+-     Create a model capable of taking advantage of imperfect bookmaker pricing of Premier League fixtures
+
 - 📫 How to reach me : www.linkedin.com/in/martin-coffey-98789b43
 
 <!---
