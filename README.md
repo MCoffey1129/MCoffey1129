@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Coffey
-- 👀 I’m interested in completing advanced projects in Machine Learning (via Python) (including):
+- 👀 I’m interested in completing advanced projects in Machine Learning (in Python) (including):
      * Creating a model which will successfully out-perform the S&P 500 across multiple time-periods 
      * Create a game in python using Pygame
      * Create an unsupervised model capable of solving the above game
