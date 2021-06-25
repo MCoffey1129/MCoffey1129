@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Martin Coffey
-- 👀 I’m interested in completing advanced projects in Machine Learning (in Python) (including):
+- 👀 I’m interested in completing advanced projects in Machine Learning, which include:
      * Creating a model which will successfully out-perform the S&P 500 across multiple time-periods 
      * Create a game in python using Pygame
      * Create an unsupervised model capable of solving the above game
      * Implement and deploy a chatbot. 
      * Create a model capable of taking advantage of imperfect bookmaker pricing of Premier League fixtures
-     * AWS Certified Machine Learning Speciality exam booked for August
+
+- 🧠 I'm currently studying for the AWS Certified Machine Learning Speciality exam in August, I am set to complete several courses on deep learning and natural language processing in Udemy over the next month (including courses on ML in AZURE). I have just finished a certificate in Data Analytics from University College Dublin and completed several online machine learning courses (see my Linkedin for more details)
 
 - 📫 How to reach me : www.linkedin.com/in/martin-coffey-98789b43
 
