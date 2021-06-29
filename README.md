@@ -6,7 +6,11 @@
      * Implement and deploy a chatbot. 
      * Create a model capable of taking advantage of imperfect bookmaker pricing of Premier League fixtures
 
-- 🧠 I'm currently studying for the AWS Certified Machine Learning Speciality exam in August, I am set to complete several courses on Deep Learning and Natural Language Processing in Udemy over the next month (including courses on ML in AZURE). I am also taking the course "Machine Learning Using SAS Viya" on Coursera. I have just finished a certificate in Data Analytics from University College Dublin and completed several online Machine learning, Data Science and Statistics courses (see my Linkedin for more details)
+- 🧠 I'm currently studying for the AWS Certified Machine Learning Speciality exam in August.
+     * I am set to complete several courses on Deep Learning and Natural Language Processing in Udemy over the next month (including courses on ML in AZURE). 
+     * I am also taking the course "Machine Learning Using SAS Viya" on Coursera. 
+     * I have just finished a certificate in Data Analytics from University College Dublin and completed several online Machine learning, Data Science and Statistics courses 
+       (see my Linkedin for more details)
 
 - 📫 How to reach me : www.linkedin.com/in/martin-coffey-98789b43
 
