@@ -6,11 +6,9 @@
      * Implement and deploy a chatbot. 
      * Create a model capable of taking advantage of imperfect bookmaker pricing of Premier League fixtures
 
-- 🧠 I'm currently studying for the AWS Certified Machine Learning Speciality exam in August.
-     * I am set to complete several courses on Deep Learning and Natural Language Processing over the next month (including courses on ML in AZURE). 
-     * I am also taking the course "Machine Learning Using SAS Viya" on Coursera. 
-     * I have just finished a certificate in Data Analytics from University College Dublin (grade received 92%) and have completed several online Machine learning, Data Science and Statistics courses 
-       (see my Linkedin for more details)
+- 🧠 I am an AWS Certified Machine Learning Specialist and have recently completed the TensorFlow Developer Professional Certificate 
+     * I have completed multiple courses on Deep Learning, Natural Language Processing, Computer Vision and other online Machine learning, Data Science and Statistics courses 
+     * I have a degree in Financial Math, I have just finished a certificate in Data Analytics from University College Dublin (grade received 92%) and am currently enrolled in a MSc in Machine Learning from the University of Limerick 
 
 - 📫 How to reach me : www.linkedin.com/in/martin-coffey-98789b43
 
