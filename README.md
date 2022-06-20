@@ -8,7 +8,7 @@
 
 - 🧠 I am an AWS Certified Machine Learning Specialist and have recently completed the TensorFlow Developer Professional Certificate 
      * I have completed multiple courses on Deep Learning, Natural Language Processing, Computer Vision and other online Machine learning, Data Science and Statistics courses 
-     * I have a degree in Financial Math, I have just finished a certificate in Data Analytics from University College Dublin (grade received 92%) and am currently enrolled in a MSc in Machine Learning from the University of Limerick 
+     * I have a degree in Financial Math, I have just finished a certificate in Data Analytics from University College Dublin (grade received 92%) and am currently enrolled in a MSc in Machine Learning from the University of Limerick (expected grade 85%) 
 
 - 📫 How to reach me : www.linkedin.com/in/martin-coffey-98789b43
 
